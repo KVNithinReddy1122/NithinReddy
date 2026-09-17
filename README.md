@@ -1,3 +1,3 @@
 # NithinReddy
-This is code for credit card fraud detection 
+This is code for credit card fraud detection, 
 Author - NIHTIN REDDY 
